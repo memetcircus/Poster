@@ -23,6 +23,7 @@
 		E37D6BFE28112D89006130A8 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37D6BFD28112D89006130A8 /* User.swift */; };
 		E37D6C0028112DA9006130A8 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37D6BFF28112DA9006130A8 /* Post.swift */; };
 		E37D6C0528113E40006130A8 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37D6C0428113E40006130A8 /* UserData.swift */; };
+		E39C98E02814BB31006FB2C3 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = E39C98DF2814BB31006FB2C3 /* Readme.md */; };
 		E3E42EEC28128D3A00004711 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E42EEB28128D3A00004711 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
@@ -47,6 +48,7 @@
 		E37D6BFD28112D89006130A8 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		E37D6BFF28112DA9006130A8 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 		E37D6C0428113E40006130A8 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		E39C98DF2814BB31006FB2C3 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		E3E42EEB28128D3A00004711 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,6 +84,7 @@
 		E37D6BDD28112D6C006130A8 = {
 			isa = PBXGroup;
 			children = (
+				E39C98DF2814BB31006FB2C3 /* Readme.md */,
 				E3E42EEB28128D3A00004711 /* Constants.swift */,
 				E37D6BE828112D6C006130A8 /* Poster */,
 				E37D6BE728112D6C006130A8 /* Products */,
@@ -213,6 +216,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E39C98E02814BB31006FB2C3 /* Readme.md in Resources */,
 				E37D6BF628112D6F006130A8 /* LaunchScreen.storyboard in Resources */,
 				E37D6BF328112D6F006130A8 /* Assets.xcassets in Resources */,
 				E37D6BF128112D6C006130A8 /* Main.storyboard in Resources */,
